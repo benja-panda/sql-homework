@@ -1,0 +1,8 @@
+# Only the SQL homework folders go to GitHub; everything else in the project stays local.
+/*
+!/.gitignore
+!/README.md
+!/sql_*/
+__pycache__/
+*.pdf
+sql_exam_review/ד.db
